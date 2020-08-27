@@ -1,0 +1,33 @@
+.product{
+    box-shadow: 5px 5px 50px gray;
+    margin: 80px 0;
+    width: 400px;
+    padding: 50px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.product-text h5{
+    color: darkgray;
+    font-weight: 500;
+    text-align: center;
+}
+
+.product-text h6{
+    color: #172046;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.product-text p{
+    color: #102040;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.main-btn{
+    text-align: right;
+}
